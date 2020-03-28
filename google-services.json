@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "210923345194",
+    "firebase_url": "https://grocery-app-def5f.firebaseio.com",
+    "project_id": "grocery-app-def5f",
+    "storage_bucket": "grocery-app-def5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210923345194:android:6ca22f8628d65394163a53",
+        "android_client_info": {
+          "package_name": "com.deity.vel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210923345194-3roh62titrrk2icrfsrnb41cobil6s3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL0Ej3eQZdcV9n-1xvyvLHHjHGa_PVn_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210923345194-3roh62titrrk2icrfsrnb41cobil6s3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
